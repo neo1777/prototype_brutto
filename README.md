@@ -1,6 +1,6 @@
 # 🎮 Il Prototipo Brutto
 
-**Un dungeon crawler in un solo file** — Prefazione pratica al libro *Guida Universale al Game Development con Flutter & Flame*.
+**Un dungeon crawler in un solo file**
 
 ## Cos'è?
 
@@ -32,12 +32,7 @@ const int gameVersion = 1; // Cambia a 2 o 3 per le espansioni
 
 Cambia il valore e riavvia il gioco.
 
-## Il libro
-
-Questo progetto è la prefazione pratica a:
-
-📖 **Guida Universale al Game Development con Flutter & Flame**
-🔗 [URL_LIBRO]
+---
 
 ## Autore
 
